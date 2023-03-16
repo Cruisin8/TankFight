@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FDB83868-BBF1-2778-9384-FE03813737CC}") = "坦克大战", "Assembly-CSharp-firstpass.csproj", "{2923D84F-FE83-36F6-C3AB-3C28231C39D6}"
+EndProject
+Project("{FDB83868-BBF1-2778-9384-FE03813737CC}") = "坦克大战", "Assembly-CSharp.csproj", "{F5B2F498-BBB9-A1EB-C358-EAD23D8D8B52}"
+EndProject
+Project("{FDB83868-BBF1-2778-9384-FE03813737CC}") = "坦克大战", "Assembly-CSharp-Editor.csproj", "{8C7D74A0-A695-B388-0AE9-A49A5513201A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2923D84F-FE83-36F6-C3AB-3C28231C39D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2923D84F-FE83-36F6-C3AB-3C28231C39D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2923D84F-FE83-36F6-C3AB-3C28231C39D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2923D84F-FE83-36F6-C3AB-3C28231C39D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B2F498-BBB9-A1EB-C358-EAD23D8D8B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B2F498-BBB9-A1EB-C358-EAD23D8D8B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B2F498-BBB9-A1EB-C358-EAD23D8D8B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B2F498-BBB9-A1EB-C358-EAD23D8D8B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7D74A0-A695-B388-0AE9-A49A5513201A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7D74A0-A695-B388-0AE9-A49A5513201A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7D74A0-A695-B388-0AE9-A49A5513201A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7D74A0-A695-B388-0AE9-A49A5513201A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
